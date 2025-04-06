@@ -433,6 +433,7 @@ h1 {
     margin-top: 30vh;
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 10vh;
     height: 60vh;
     justify-content: center;
     align-items: center;
@@ -454,6 +455,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 3;
   }
   .profile-img{
     display: none;
@@ -470,7 +472,7 @@ h1 {
     display: none;
   }
   .about-container{
-    margin-top: 28vh;
+    margin-top: 34vh;
     margin-left: 5%;
     margin-right: 5%;
     padding: 2px;
